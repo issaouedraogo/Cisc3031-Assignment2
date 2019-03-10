@@ -1,0 +1,15 @@
+Input	Annabel
+Output	false
+-----------------------
+Input1	Anna
+Output1	true
+-----------------------
+Input2	Civic
+Output2	true
+-----------------------
+Input3	Google
+Output3	false
+-----------------------
+Input4	Racecar
+Output4	true
+-----------------------
